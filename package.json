@@ -1,0 +1,9 @@
+{
+  "name": "integrando-o-chatgpt-com-node-e-react",
+  "version": "1.0.0",
+  "description": "[English](#english) | [Português](#português)",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "license": "MIT"
+}
